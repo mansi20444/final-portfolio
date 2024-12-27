@@ -81,8 +81,8 @@ export default function Hero() {
               className="text-3xl font-extrabold leading-tight tracking-tighter md:text-4xl lg:text-5xl bg-clip-text text-transparent bg-gradient-to-r from-amber-500 to-orange-600 dark:from-amber-400 dark:to-orange-500"
               variants={itemVariants}
             >
-              Hi, I'm Mansi Sharma.<br className="hidden sm:inline" />
-              Full Stack Developer & AI Enthusiast.
+              Hi, I'm Mansi Sharma - <br className="hidden sm:inline" />
+               Full Stack Developer & AI Enthusiast.
             </motion.h1>
             
             <motion.p 
